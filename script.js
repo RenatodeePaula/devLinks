@@ -8,7 +8,7 @@ function noite(){
             img.setAttribute('src', 'https://avatars.githubusercontent.com/u/103689532?v=4"')
             img.setAttribute('alt', "Foto de Renato de paula de óculos escuro.")
     } else {
-        img.setAttribute('src', './assets/foto-noite.png' )
+        img.setAttribute('src', './assets/renato.jpg' )
         img.setAttribute('alt', "Foto de Renato de Paula a noite.")
     }
 }
